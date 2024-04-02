@@ -1,0 +1,23 @@
+header {
+  background-color: rgb(92, 219, 223);
+  padding-block: 1em;
+}
+main {
+  background-color: aquamarine;
+  padding-bottom: 1em;
+}
+h1 {
+  font-weight: bold;
+}
+h2 {
+  font-weight: 600;
+}
+.p-2 {
+  font-weight: bold;
+}
+.border {
+  border-radius: 15px;
+}
+.text-bold {
+  font-weight: bold;
+}
